@@ -1,4 +1,4 @@
-# week7
+# app
 
 A new Flutter project.
 
